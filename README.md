@@ -102,7 +102,7 @@ A flowchart is not required for submission, but it is **highly** recommended you
 
 ## README.md
 
-You should create a readme file that contains the following information
+👉🏽 **Task**: You should create a readme file that contains the following:
 
 * Reflection of what you learned this module, include what you think you need to work on and how you will improve those skills
 * List any coding practice problems you did  - not required, but it is always good to warm up with practice problems! 
