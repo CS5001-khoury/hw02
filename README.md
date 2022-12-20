@@ -55,7 +55,7 @@ Given the following chart
 | Boston | 28 | -7 |
 | Honolulu | 32 | 13 |
 | San Francisco | 27 | 6 |
-| Vancouver BC | 24  | 2 |
+| Vancouver BC| 24  | 2 |
 
 * The client will provide two numbers, a high and low number. 
   * They can be in any order.
@@ -63,12 +63,6 @@ Given the following chart
 * If a condition can't be met, it will print Unknown. 
  
 For example, 
-```text
-Enter a temperature: 33
-Enter a second temperature: -8
-Beijing
-```
-
 ```text
 Enter a temperature: 28
 Enter a second temperature: -10

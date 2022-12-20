@@ -24,10 +24,6 @@ def main():
     Values can be in any order.
 
     Examples:
-        >>> main()                                      # doctest: +NORMALIZE_WHITESPACE
-        Enter a temperature: 33
-        Enter a second temperature: -8
-        Beijing
         >>> main()                                       # doctest: +NORMALIZE_WHITESPACE
         Enter a temperature: 28
         Enter a second temperature: -10
