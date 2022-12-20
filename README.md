@@ -123,9 +123,6 @@ Assume you are writing a guessing game application in which the computer generat
 
 ## Grading Rubric
 
-
-Add (AG) and (MG) next to tiers, add major conditions to meet to pass each tier. 
-
 1. Learning (AG)
    * Star Rating properly takes in input, and works on star between 1 and 5
 2. Approaching  (AG)
