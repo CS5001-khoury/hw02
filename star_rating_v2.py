@@ -20,13 +20,13 @@ def main():
 
     Examples:
         In this example the client enters Thor and 3
-        >>> main()     # doctest: +NORMALIZE_WHITESPACE
+        >>> main()              # doctest: +NORMALIZE_WHITESPACE
         Enter a movie:  Thor
         Rate between 1 and 5:  3  
         Thor     ***
 
         In this next example, client enters 5 (which is admittedly too few stars)
-        >>> main()   # doctest: +NORMALIZE_WHITESPACE
+        >>> main()              # doctest: +NORMALIZE_WHITESPACE
         Enter a movie: Princess Bride
         Rate between 1 and 5: 5
         Princess Bride     *****
