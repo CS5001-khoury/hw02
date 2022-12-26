@@ -141,7 +141,7 @@ AG - Auto-graded
 MG - Manually graded
 
 
-## Additional Resources (optional)
+## 📚 Additional Resources
 
 This section just defines some additional help resources incase you need them
 
