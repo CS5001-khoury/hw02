@@ -1,6 +1,6 @@
-# Homework 02 - Introduction to Logic (Option A)
+# Homework 02 - Introduction to Logic
 
-For this module, we will explore both variable types, logic and building flowcharts. This homework let's you practice with multiple mini-projects.
+For this module, we will explore both variable types, logic and building flowcharts. This homework let's you practice with multiple mini-projects. You may want to read through the entire assignment (including the Additional Resources) before getting started on this one, as there are some tips and tricks that may help you out.
 
 ## Star Rating Version 2
 
@@ -96,12 +96,11 @@ A flowchart is not required for submission, but it is **highly** recommended you
 
 ## README.md
 
-👉🏽 **Task**: You should create a readme file that contains the following:
+👉🏽 **Task**: Answer the questions in the [README.md](../README.md) file. 
 
-* Reflection of what you learned this module, include what you think you need to work on and how you will improve those skills
-* List any coding practice problems you did  - not required, but it is always good to warm up with practice problems! 
-* Your answer to the following further thinking problem 
+Make sure to answer the questions in the [README.md](../README.md) file. One question will require you to draw a flowchart. You can upload the .png or other file when you submit your homework.
 
+As always you are free to ask about the questions in MS Teams, including clarifications on the code. 
 
 
 
@@ -121,8 +120,7 @@ A flowchart is not required for submission, but it is **highly** recommended you
 4. Exceeds  (MG)
    * Code uses appropriate comments and docstring is updated
    * Code isn't overly complex / meets suggested guidelines for coding
-   * Reflection submitted (at least a written paragraph)
-   * Further thinking included (another paragraph)
+   * README.md questions answered correctly
    * Flowchart is correct
      * matches the code provided 
      * both follow assignment specifications. 
