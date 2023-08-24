@@ -37,13 +37,13 @@ Princess Bride     *****
 
 ### Part 2: Write the Program
 
-👉🏽 **Task**: Using your flowchart as a guide, write the program using the template [star_rating_v2.py](star_rating_v2.py).
+👉🏽 **Task**: Using your flowchart as a guide, write the program using the template [star_rating_v2.py](../star_rating_v2.py).
 
 
 
 ## Location Guessing Application
 
-For this task, you will explore variable types, client `input()`, and boolean logic. For this, you will use [temp_guess.py](temp_guess.py)
+For this task, you will explore variable types, client `input()`, and boolean logic. For this, you will use [temp_guess.py](../temp_guess.py)
 
 You will write an application that suggests a location to live based on conditions.
 
@@ -102,16 +102,7 @@ A flowchart is not required for submission, but it is **highly** recommended you
 * List any coding practice problems you did  - not required, but it is always good to warm up with practice problems! 
 * Your answer to the following further thinking problem 
 
-### Further Thinking: Guessing Numbers
 
-Assume you are writing a guessing game application in which the computer generates a random number, and you get to keep guessing until you find the number. You know the number is between 1 and 100.
-
-* Can you come up with an algorithm to guess the correct number? As you have as many changes as possible, it is alright to do the simplest case. 
-* Assuming there are 100 possible numbers, how many guesses would it take in the worst case?
-* Can you figure out an algorithm that would take less guesses in the worst case and still come up with the same answer?
-  * This is challenging! do the best you can, talk with others, and no need to have the correct answer at this time - just any answer will be valid. We are more interested in your thought process.
-    For example, did you try a few algorithms out on paper? Ask yourself the worst case and best case for finding the number?
-  * For reference, there is a fast algorithm that is based on one of the oldest documented search algorithms in history - back to the Romans talking about how to use an address book for Rome. 
 
 
 
