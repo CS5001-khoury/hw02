@@ -31,7 +31,13 @@ For all these questions, it is recommended you open up IDLE or the python interp
    ```
    a. Does the code properly check to see if the number is between 1 and 100?  If not, what is the problem?
 
-   b. If not, go ahead and write the check_valid function here. You will notice, that num is a parameter of the function, and something you can use within the function itself as a variable. 
+   b. If not, go ahead and re-write the check_valid function here. You will notice, that num is a parameter of the function, and something you can use within the function itself as a variable. 
+   ```python
+   def check_valid(num):
+      # your code here
+   
+
+   ```
 
    c. Now let's take a moment. Define an *edge case* using your own words. You may need to do some research on edge cases (make sure to cite sources).
 
