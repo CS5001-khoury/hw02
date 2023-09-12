@@ -19,7 +19,7 @@ def main():
     | Boston | 28 | -7 |
     | Honolulu | 32 | 13 |
     | San Francisco | 27 | 6 |
-    | Vancouver BC | 24  | 2 |
+    | Vancouver | 24  | 2 |
 
     Values can be in any order.
 

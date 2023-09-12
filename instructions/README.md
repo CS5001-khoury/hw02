@@ -55,7 +55,7 @@ Given the following chart
 | Boston | 28 | -7 |
 | Honolulu | 32 | 13 |
 | San Francisco | 27 | 6 |
-| Vancouver BC| 24  | 2 |
+| Vancouver | 24  | 2 |
 
 * The client will provide two numbers, a high and low number. 
   * They can be in any order.
